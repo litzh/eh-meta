@@ -89,7 +89,7 @@ calibre-customize -b EHentaiImport
 开发参考了以下两个开源项目：
 
 - [Ehentai_metadata](https://github.com/nonpricklycactus/Ehentai_metadata) — E-Hentai API 调用与标题结构解析思路
-- [EmbedComicMetadata](https://github.com/dloraine/EmbedComicMetadata) — calibre 书库内压缩包的 ComicInfo.xml 读写方式
+- [EmbedComicMetadata](https://github.com/dickloraine/EmbedComicMetadata) — calibre 书库内压缩包的 ComicInfo.xml 读写方式
 
 ## License
 
