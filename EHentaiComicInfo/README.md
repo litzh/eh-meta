@@ -11,7 +11,7 @@
 ## gid/token 解析顺序
 
 1. 书籍的 `ehentai` identifier（兼容 `gid_token` 与 `gid_token_0/1` 两种格式）；
-2. 书名形如 `4105980-db7e47b670`（即直接以 `{gid}-{token}.zip` 导入、未改过标题的书）；
+2. 书名形如 `2231376-a7584a5932`（即直接以 `{gid}-{token}.zip` 导入、未改过标题的书）；
 3. 书库内文件名形如 `{gid}-{token}.zip/.cbz`。
 
 ## 配套插件：EHentai Import

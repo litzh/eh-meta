@@ -3,7 +3,7 @@
 """EHentai Import — calibre 元数据读取插件。
 
 添加图书时，若 zip 文件名符合 E-Hentai 命名格式 {gallery_id}-{gallery_token}.zip
-（例如 4105980-db7e47b670.zip），自动将 ehentai identifier 写入书籍元数据，
+（例如 2231376-a7584a5932.zip），自动将 ehentai identifier 写入书籍元数据，
 供 EHentai ComicInfo 插件后续精确获取元数据。
 
 文件名不匹配时抛出异常，calibre 会自动回退到默认的文件名解析逻辑。
